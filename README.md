@@ -1,4 +1,4 @@
-# Disneyland-Reviews Prediction RNN
+# Disneyland Reviews Prediction RNN
 
 This project was created as an assignment for my Machine Learning, Artificial Neural Network, and Deep Learning (2nd module of 2) exam. The aim of this project is to create a model that can infer the rating in terms of how many stars were assigned in a review based on its text. The dataset used is the [Disneyland Reviews dataset](https://www.kaggle.com/datasets/arushchillar/disneyland-reviews), which comprises 42,000 reviews of 3 Disneyland branches - Paris, California, and Hong Kong, posted by visitors on Trip Advisor.
 
